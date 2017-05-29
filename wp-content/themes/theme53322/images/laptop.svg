@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="notebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="82px" viewBox="0 0 128 82" enable-background="new 0 0 128 82" xml:space="preserve">
+<rect id="white_x5F_2" x="3.667" y="69.667" fill="#FFFFFF" width="120.901" height="9.06"/>
+<rect id="white" x="11.167" y="3.833" fill="#FFFFFF" width="106.167" height="65.833"/>
+<path id="body" fill="#242424" d="M127.999,70.007L127.999,70.007C128,74.154,125.492,82.001,116,82.001v-0.002H12v0.002
+	c-9.492,0-12-7.847-12-11.994h0.001C0.001,70.005,0,70.003,0,69.999c0-1.104,0.896-2,2-2h6v-60c0-4.418,3.582-8,8-8h96
+	c4.418,0,8,3.582,8,8v60h6c1.104,0,2,0.896,2,2C128,70.003,127.999,70.005,127.999,70.007z M116,7.999c0-2.209-1.791-4-4-4H16
+	c-2.209,0-4,1.791-4,4v60h104V7.999z M120,71.999H78.828c-0.725,1-1.725,2-2.828,2H52c-1.477,0-2.752-0.81-3.445-2H8H4.258
+	c0.547,2.392,2.271,5.992,7.72,6.002c0.007,0,0.014-0.002,0.021-0.002c0.001,0,0.002,0,0.004,0h103.992c0.002,0,0.002,0,0.004,0
+	c0.008,0,0.015,0.002,0.021,0.002c5.449-0.01,7.174-3.61,7.722-6.002H120z"/>
+<g id="gray">
+	<g>
+		<path fill="#E0E2E4" d="M15.5,7.938v60h2v-58h92v58h2v-60H15.5z M63.5,6.938c0.552,0,1-0.447,1-1c0-0.552-0.448-1-1-1
+			s-1,0.448-1,1S62.948,6.938,63.5,6.938z"/>
+	</g>
+</g>
+<g id="overflow">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M26.75,18.938h74.875V59H26.75V18.938z"/>
+	<g id="animate">
+		<path id="red" fill="#F79B6F" d="M84.166,49.938h16v8h-16V49.938z"/>
+		<path id="blue" fill="#86AEDC" d="M84.166,19.938h16v24h-16V19.938z"/>
+		<path id="green" fill="#85AB70" d="M28.167,19.938h50v38h-50V19.938z"/>
+		<path fill="#779A65" d="M32.167,19.938h2v2h-2V19.938z"/>
+		<path fill="#779A65" d="M28.167,19.938h2v2h-2V19.938z"/>
+		<path fill="#779A65" d="M36.167,19.938h2v2h-2V19.938z"/>
+		<path fill="#779A65" d="M34.167,25.938h2v2h-2V25.938z"/>
+		<path fill="#779A65" d="M36.167,23.938h2v2h-2V23.938z"/>
+		<path fill="#779A65" d="M28.167,23.938h2v2h-2V23.938z"/>
+		<path fill="#779A65" d="M30.167,25.938h2v2h-2V25.938z"/>
+		<path fill="#779A65" d="M32.167,23.938h2v2h-2V23.938z"/>
+		<path fill="#779A65" d="M34.167,21.938h2v2h-2V21.938z"/>
+		<path fill="#779A65" d="M30.167,21.938h2v2h-2V21.938z"/>
+		<path fill="#779A65" d="M32.167,31.938h2v2h-2V31.938z"/>
+		<path fill="#779A65" d="M34.167,29.938h2v2h-2V29.938z"/>
+		<path fill="#779A65" d="M36.167,27.938h2v2h-2V27.938z"/>
+		<path fill="#779A65" d="M28.167,31.938h2v2h-2V31.938z"/>
+		<path fill="#779A65" d="M30.167,29.938h2v2h-2V29.938z"/>
+		<path fill="#779A65" d="M32.167,27.938h2v2h-2V27.938z"/>
+		<path fill="#779A65" d="M36.167,31.938h2v2h-2V31.938z"/>
+		<path fill="#779A65" d="M28.167,27.938h2v2h-2V27.938z"/>
+		<path fill="#779A65" d="M34.167,37.938h2v2h-2V37.938z"/>
+		<path fill="#779A65" d="M36.167,35.938h2v2h-2V35.938z"/>
+		<path fill="#779A65" d="M28.167,35.938h2v2h-2V35.938z"/>
+		<path fill="#779A65" d="M30.167,37.938h2v2h-2V37.938z"/>
+		<path fill="#779A65" d="M32.167,35.938h2v2h-2V35.938z"/>
+		<path fill="#779A65" d="M34.167,33.938h2v2h-2V33.938z"/>
+		<path fill="#779A65" d="M30.167,33.938h2v2h-2V33.938z"/>
+		<path fill="#779A65" d="M32.167,43.938h2v2h-2V43.938z"/>
+		<path fill="#779A65" d="M34.167,41.938h2v2h-2V41.938z"/>
+		<path fill="#779A65" d="M36.167,39.938h2v2h-2V39.938z"/>
+		<path fill="#779A65" d="M28.167,43.938h2v2h-2V43.938z"/>
+		<path fill="#779A65" d="M30.167,41.938h2v2h-2V41.938z"/>
+		<path fill="#779A65" d="M32.167,39.938h2v2h-2V39.938z"/>
+		<path fill="#779A65" d="M36.167,43.938h2v2h-2V43.938z"/>
+		<path fill="#779A65" d="M28.167,39.938h2v2h-2V39.938z"/>
+		<path fill="#779A65" d="M34.167,49.938h2v2h-2V49.938z"/>
+		<path fill="#779A65" d="M36.167,47.938h2v2h-2V47.938z"/>
+		<path fill="#779A65" d="M28.167,47.938h2v2h-2V47.938z"/>
+		<path fill="#779A65" d="M30.167,49.938h2v2h-2V49.938z"/>
+		<path fill="#779A65" d="M32.167,47.938h2v2h-2V47.938z"/>
+		<path fill="#779A65" d="M34.167,45.938h2v2h-2V45.938z"/>
+		<path fill="#779A65" d="M30.167,45.938h2v2h-2V45.938z"/>
+		<path fill="#779A65" d="M32.167,55.938h2v2h-2V55.938z"/>
+		<path fill="#779A65" d="M34.167,53.938h2v2h-2V53.938z"/>
+		<path fill="#779A65" d="M36.167,51.938h2v2h-2V51.938z"/>
+		<path fill="#779A65" d="M28.167,55.938h2v2h-2V55.938z"/>
+		<path fill="#779A65" d="M30.167,53.938h2v2h-2V53.938z"/>
+		<path fill="#779A65" d="M32.167,51.938h2v2h-2V51.938z"/>
+		<path fill="#779A65" d="M36.167,55.938h2v2h-2V55.938z"/>
+		<path fill="#779A65" d="M28.167,51.938h2v2h-2V51.938z"/>
+		<path fill="#779A65" d="M40.167,19.938h2v2h-2V19.938z"/>
+		<path fill="#779A65" d="M38.167,25.938h2v2h-2V25.938z"/>
+		<path fill="#779A65" d="M40.167,23.938h2v2h-2V23.938z"/>
+		<path fill="#779A65" d="M38.167,21.938h2v2h-2V21.938z"/>
+		<path fill="#779A65" d="M38.167,29.938h2v2h-2V29.938z"/>
+		<path fill="#779A65" d="M40.167,27.938h2v2h-2V27.938z"/>
+		<path fill="#779A65" d="M40.167,31.938h2v2h-2V31.938z"/>
+		<path fill="#779A65" d="M38.167,37.938h2v2h-2V37.938z"/>
+		<path fill="#779A65" d="M40.167,35.938h2v2h-2V35.938z"/>
+		<path fill="#779A65" d="M38.167,33.938h2v2h-2V33.938z"/>
+		<path fill="#779A65" d="M38.167,41.938h2v2h-2V41.938z"/>
+		<path fill="#779A65" d="M40.167,39.938h2v2h-2V39.938z"/>
+		<path fill="#779A65" d="M40.167,43.938h2v2h-2V43.938z"/>
+		<path fill="#779A65" d="M38.167,49.938h2v2h-2V49.938z"/>
+		<path fill="#779A65" d="M40.167,47.938h2v2h-2V47.938z"/>
+		<path fill="#779A65" d="M38.167,45.938h2v2h-2V45.938z"/>
+		<path fill="#779A65" d="M38.167,53.938h2v2h-2V53.938z"/>
+		<path fill="#779A65" d="M40.167,51.938h2v2h-2V51.938z"/>
+		<path fill="#779A65" d="M40.167,55.938h2v2h-2V55.938z"/>
+	</g>
+</g>
+</svg>
